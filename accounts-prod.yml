@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related productions APIs "
+  message: "Welcome to EazyBank accounts related hookdeckprod APIs "
   contactDetails:
     name: "Satwik K S - Product Developer"
     email: "{cipher}4a5a835427daacaa156daaac5c7dfac0d12f7f9a84f629da335310e267a4002f6ff5e3bf6d9687ae0a476ed97bc4abb9"
