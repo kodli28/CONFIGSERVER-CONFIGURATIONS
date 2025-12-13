@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank Loans related production APIs "
+  contactDetails:
+    name: "KODLI - PRODUCT DEVELOPER"
+    email: "kodlijohnson@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
